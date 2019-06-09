@@ -1,6 +1,6 @@
 # landing-page-with-blur-effect
 
-* arkaplan resmine geldiginde ise yazinin opakligi azaliyor.
+* arkaplan resmine geldiginde  yazinin opakligi azaliyor.
 
 
 ana sayfa su sekilde:
